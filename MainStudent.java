@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MainStudent {
   public static void main(String[] args) {
-	  System.out.println("prathibha");
+	  System.out.println("prathibha v g");
 	  Scanner sc=new Scanner(System.in);
 	  Studentmgtimpl s=new Studentmgtimpl();
 	while(true)
